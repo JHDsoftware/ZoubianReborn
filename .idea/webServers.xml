@@ -5,7 +5,7 @@
       <webServer id="4bc0a6ad-c7be-4491-9ac8-550a6210ea32" name="ZoubianRoot" url="http://www.zoubian.de">
         <fileTransfer host="185.206.160.171" port="21" rootFolder="/domains/zoubian.de/public_html">
           <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+            <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
           <option name="port" value="21" />
         </fileTransfer>

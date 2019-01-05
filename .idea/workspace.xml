@@ -124,6 +124,42 @@
       </pane>
     </panes>
   </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="466" />
+    <option name="y" value="-18" />
+    <option name="width" value="1362" />
+    <option name="height" value="1041" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ZoubianReborn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ZoubianReborn" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="ZoubianReborn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ZoubianReborn" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Php" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="ZoubianReborn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ZoubianReborn" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Php" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="DB" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
